@@ -11,5 +11,5 @@ A collection of online tools for a __quick__ work on browser for research/develo
 •	__Geographic Coordinates Conversion : UTM and Lat/Lon Conversion__<br>
 &nbsp;&nbsp;&nbsp;&nbsp;•	[http://www.rcn.montana.edu/resources/converter.aspx](http://www.rcn.montana.edu/resources/converter.aspx)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;•	[https://www.latlong.net/lat-long-utm.html](https://www.latlong.net/lat-long-utm.html)<br>
-
-
+•	__3D Rotation Converter : 3x3 Rotation Matrix/Quaternion Conversion__<br>
+&nbsp;&nbsp;&nbsp;&nbsp;•	[https://www.andre-gaschler.com/rotationconverter/](https://www.andre-gaschler.com/rotationconverter/)<br>
